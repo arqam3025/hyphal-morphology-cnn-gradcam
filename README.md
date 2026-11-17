@@ -8,7 +8,7 @@ the right structures when it decides?
 > ([`fermsim/morphology.py`](fermsim/morphology.py)), not from real microscopy.
 > Wild-type hyphae are drawn long and sparsely branched. C-variant hyphae are
 > short and densely branched (branch probability 0.45 vs 0.04). This was built in
-> November 2026, with AI assistance, as preparation for a PhD application.
+> November 2026 as preparation for a PhD application.
 
 ## Setup
 
